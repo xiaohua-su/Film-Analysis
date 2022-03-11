@@ -2,11 +2,11 @@
 ![Microsoft-Logo-700x394](https://user-images.githubusercontent.com/100173802/157888187-f56dfd17-a5c2-46cf-b8dd-5db737cd0506.png)
 
 ## Overview
-The purpose of this project is to analyze the trends in the movie industry and give reccommendations base on these initial findings to new studios. Exploratory analysis reveals the highest Return On Investment (ROI), runtime averging closer to 2 hours, and Horror-Mystery-Thriller with other genres included produced the greatest ROI. Microsoft can use the analysis made here to have a sense on the type of movies they should aim to make at their new movie studio.
+The purpose of this project is to analyze the trends in the movie industry, and give recommendations based on these initial findings, to Microsoft's new studio. Exploratory analysis reveals the highest Return On Investment (ROI), runtime averaging closer to 2 hours, and that Horror-Thriller produces the greatest ROI. Microsoft can use the analysis made here to have a sense on the type of movies they should aim to make at their new movie studio.
 
 ## Business Problem
 ![Movie-sets-4](https://user-images.githubusercontent.com/100173802/157889454-0e4c4403-fd56-44ae-b451-4b7531699c2e.jpeg)
-Microsoft can venture into the movie industry by creating a movie studio under their name. The issue is that Microsoft may be unfamilar with where to begin in the production of new films. With some insight into the landscape of the movie industry such as how much money others are investing per movie, the length of movies and the type of genres that produce high ROI, Microsoft will be able produce films that are profitable. This project decribes the trends in ROI, movie length over time and top genres.
+Microsoft can venture into the movie industry by creating a movie studio under their name. The issue is that Microsoft may be unfamiliar with where to begin in the production of new films. With some insight into the landscape of the movie industry such as how much money others are investing per movie, the length of movies and the type of genres that produce high ROI, Microsoft will be able produce films that are profitable. This project describes the trends in ROI, movie length over time and top genres.
 
 ## Data
 The data comes from multiple sources. In this project, data from The Movie Database (TMDB), The Numbers (TN) and Internet Movie Database (IMDB) was used. Each data file had the name of the film in which merges occurred on as they each had a column of interest for the analysis. The data provides the production budget, worldwide gross, runtime and other features of a film that are of interest.
