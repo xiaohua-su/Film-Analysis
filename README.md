@@ -17,7 +17,7 @@ This project uses descriptive statistics and data analyzation to understand and 
 ## Results
 ### Production Budget
 To maximize Microsoft's ROI and minimize potential risk, we found that the ideal production budget is between $5 million and $20 million. Movies within this range tend to have an expected ROI of 300%.
-![Production Budget and ROI](https://user-images.githubusercontent.com/100173802/157892236-ce4b8c27-3aee-4550-9fed-f8754fcc5768.png)
+![Production Budget and ROI](https://user-images.githubusercontent.com/100173802/157897037-12774434-470c-4397-9d00-94465f20ce86.jpeg)
 ### Run Time
 We see that each year that the movie length is getting longer. However, we found that there is no strong relationship between movie length and ROI. 
 ![Movie Length over the Years and ROI](https://user-images.githubusercontent.com/100173802/157892593-ab065128-49db-4e75-8660-a09d4d0f69ba.png)
