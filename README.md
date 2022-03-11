@@ -20,10 +20,10 @@ To maximize Microsoft's ROI and minimize potential risk, we found that the ideal
 ![Production Budget and ROI](https://user-images.githubusercontent.com/100173802/157897037-12774434-470c-4397-9d00-94465f20ce86.jpeg)
 ### Run Time
 We see that each year that the movie length is getting longer. However, we found that there is no strong relationship between movie length and ROI. 
-![Movie Length over the Years and ROI](https://user-images.githubusercontent.com/100173802/157892593-ab065128-49db-4e75-8660-a09d4d0f69ba.png)
+![Movie Length over the Years and ROI](https://user-images.githubusercontent.com/100173802/157897833-f5ccf460-e1fe-4757-b815-1ea8410936b6.jpeg)
 ### Genres
 The genre with the highest return on investment is Horror-Mystery-Thriller and the second was Horror-Thriller. Based on this information we recommend Microsoft produce Horror-Thriller films.
-![Highest ROI by Genre](https://user-images.githubusercontent.com/100173802/157892911-04ecf113-d36f-42da-a48e-cad49cbddd31.png)
+![Highest ROI by Genre](https://user-images.githubusercontent.com/100173802/157897876-60ff7955-2c2d-4670-ac5c-036272f9154d.jpeg)
 
 ## Conclusions
 Based on our data analysis we would recommend Microsoft:
