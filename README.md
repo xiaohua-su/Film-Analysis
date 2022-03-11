@@ -17,6 +17,7 @@ This project uses descriptive statistics and data analyzation to understand and 
 ## Results
 ### Production Budget
 To maximize Microsoft's ROI and minimize potential risk, we found that the ideal production budget is between $5 million and $20 million. Movies within this range tend to have an expected ROI of 300%.
+
 ![Production Budget and ROI](https://user-images.githubusercontent.com/100173802/157897037-12774434-470c-4397-9d00-94465f20ce86.jpeg)
 ### Run Time
 We see that each year that the movie length is getting longer. However, we found that there is no strong relationship between movie length and ROI.
@@ -24,6 +25,7 @@ We see that each year that the movie length is getting longer. However, we found
 ![Movie Length over the Years and ROI](https://user-images.githubusercontent.com/100173802/157897833-f5ccf460-e1fe-4757-b815-1ea8410936b6.jpeg)
 ### Genres
 The genre with the highest return on investment is Horror-Mystery-Thriller and the second was Horror-Thriller. Based on this information we recommend Microsoft produce Horror-Thriller films.
+
 ![Highest ROI by Genre](https://user-images.githubusercontent.com/100173802/157897876-60ff7955-2c2d-4670-ac5c-036272f9154d.jpeg)
 
 ## Conclusions
