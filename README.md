@@ -41,4 +41,6 @@ Further analysis may prove beneficial in the following areas;
 - The ROI on movies with established fanbases, such as books, movies, and videogames.
 
 ## For Additional Information
-Please see our data analysis methods in https://github.com/xiaohua-su/project1trial#:~:text=Analysis_of_Films.ipynb or review our presentation at https://github.com/xiaohua-su/Film-Analysis/blob/main/Film%20Analysis%20Presentation.pdf
+Please see our data analysis methods in https://github.com/xiaohua-su/project1trial#:~:text=Analysis_of_Films.ipynb  
+Review our presentation at https://github.com/xiaohua-su/Film-Analysis/blob/main/Film%20Analysis%20Presentation.pdf
+Our data sources can be found 
