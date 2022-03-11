@@ -43,4 +43,5 @@ Further analysis may prove beneficial in the following areas;
 ## For Additional Information
 Please see our data analysis methods in https://github.com/xiaohua-su/project1trial#:~:text=Analysis_of_Films.ipynb  
 Review our presentation at https://github.com/xiaohua-su/Film-Analysis/blob/main/Film%20Analysis%20Presentation.pdf
-Our data sources can be found 
+Our data sources can be found at https://github.com/xiaohua-su/Film-Analysis#:~:text=Commit%20time-,data,-addition%20of%20data
+
